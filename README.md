@@ -1,2 +1,2 @@
 # Feign_clients
-Consumes rest api
+Consumes rest calls
